@@ -1,0 +1,171 @@
+@media only screen and (max-width:400px)
+{
+
+    
+    .whole-wrapper{
+      width:100%;
+      
+    }
+
+    .container{
+        width:95%;
+    }
+
+    *{
+        padding:2px 2px;
+        float:none;}
+    
+    .header-top-left{
+     display: block;
+      
+     float:none;
+    }
+    .header-top-left img{
+        padding:10px 15px;
+       }
+
+    .header-top-right
+    {
+        display:none;
+    }
+
+    .header-bottom main-logo{
+        width:100%;
+        height:auto;
+ 
+    }
+
+    .main-logo img{
+        float:none;
+        margin-left:auto;
+        margin-right:auto
+    }
+
+    .nav-bar {
+        
+       width:50%
+    }
+    .hidden-logo{
+        width: 40%; 
+        display:block;
+        float:right;
+    }
+    .banner{
+        display:none;
+    }
+
+    .content-individual{
+        width:45%;
+    }
+    input[type=button]{
+        width:100%;
+    }
+
+    .contest-information{
+        height:auto;
+    }
+    .contest-info{
+    display:none;    }
+
+    .content-image  {
+        height:auto;
+        float: none;
+       width:100%;
+    }
+    .content-image .laptop{
+        height:auto;
+        float: none;
+       width:100%;
+    }
+
+    .content-21-left{
+        float: none;
+        width:100%;
+        text-align: left;;
+    }
+
+    .content-3{
+        width:100%;
+    }
+    .content-3 .right{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+ .content-gallary img{
+     width: 45%;
+ }  
+ 
+ .content-4 {
+     width:100%;
+ }
+
+ .ratings{
+     display:none;
+ }
+ .bottom-banner{
+     display: none;;
+ }
+ .email-form{
+     width:100%;
+     float:none;
+}
+.coupon.right{
+    display: none;
+
+}
+
+.choices
+{
+    float: none;
+    width:100%;
+}
+.email-form{
+    display:none;
+}
+
+.last-content{
+   width:100%;
+}
+
+.design-content{
+    float:none;
+    width:100%;
+}
+.social-media a{
+
+    padding: 0px 20px;
+    float:none;
+
+
+}
+
+.quicklinks{
+    width: 100%;
+    float:none;
+
+
+}
+.myaccount{
+    width:100%;
+    float:none;
+
+
+}
+.newsletter{
+    width:100%;
+    float:none;
+}
+.footer{
+    width: 100%;
+    left:0;
+    bottom:0;
+    float:none;
+     
+}
+
+}
+
+
+
+

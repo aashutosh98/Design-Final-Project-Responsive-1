@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: calibri;
+   
+
+   
+}
+body{
+   
+    font-family: calibri;
+    color:#353535;
+    
+
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  a{
+	text-decoration: none;
+	color: #000000;
+}
+
+.container{
+    width:80%;
+}
